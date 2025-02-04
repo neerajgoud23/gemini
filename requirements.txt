@@ -1,3 +1,6 @@
-streamlit
+langchain 
 google-generativeai
 python-dotenv
+langchain-community
+faiss-cpu
+bs4
